@@ -1,6 +1,6 @@
 
 
-## vim config file on mac.
+## VIM CONFIG FILE ON MAC, LINUX, WINDOWS
 
 
 
